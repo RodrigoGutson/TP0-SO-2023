@@ -1,0 +1,22 @@
+[INFO] 22:50:24:235 logger/(5990:5990): Hola! Soy un Log
+[INFO] 16:02:36:897 logger/(2350:2350): Hola! Soy un Log
+[INFO] 16:15:45:345 logger/(2676:2676): Hola! Soy un Log
+[INFO] 16:15:45:351 logger/(2676:2676): IP: 127.0.0.1, PUERTO: 4444, CLAVE: valor
+[INFO] 16:42:37:739 logger/(96230:96230): Hola! Soy un Log
+[INFO] 16:42:37:743 logger/(96230:96230): IP: 127.0.0.1, PUERTO: 4444, CLAVE: valor
+[INFO] 16:42:44:805 logger/(96230:96230): La linea leida fue: HOlaa
+[INFO] 16:42:49:656 logger/(96230:96230): La linea leida fue: como estas
+[INFO] 16:42:52:321 logger/(96230:96230): La linea leida fue: jajajaja
+[INFO] 16:42:54:969 logger/(96230:96230): La linea leida fue: chau
+[INFO] 16:45:46:797 logger/(100289:100289): Hola! Soy un Log
+[INFO] 16:45:46:801 logger/(100289:100289): IP: 127.0.0.1, PUERTO: 4444, CLAVE: valor
+[INFO] 16:47:02:216 logger/(100342:100342): Hola! Soy un Log
+[INFO] 16:47:02:223 logger/(100342:100342): IP: 127.0.0.1, PUERTO: 4444, CLAVE: valor
+[INFO] 16:47:05:232 logger/(100342:100342): La linea leida fue: hola
+[INFO] 16:47:08:193 logger/(100342:100342): La linea leida fue: como
+[INFO] 16:47:09:466 logger/(100342:100342): La linea leida fue: estas
+[INFO] 16:47:13:313 logger/(100342:100342): La linea leida fue: chau
+[INFO] 16:47:59:844 logger/(100408:100408): Hola! Soy un Log
+[INFO] 16:47:59:852 logger/(100408:100408): IP: 127.0.0.1, PUERTO: 4444, CLAVE: valor
+[INFO] 16:48:02:658 logger/(100408:100408): La linea leida fue: hola
+[INFO] 16:48:04:435 logger/(100408:100408): La linea leida fue: chau
