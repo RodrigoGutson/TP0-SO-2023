@@ -1,0 +1,39 @@
+[INFO] 21:56:02:036 Servidor/(101843:101843): Servidor listo para recibir al cliente
+[INFO] 21:56:40:190 Servidor/(101880:101880): Servidor listo para recibir al cliente
+[INFO] 21:57:08:782 Servidor/(101904:101904): Servidor listo para recibir al cliente
+[INFO] 23:40:16:511 Servidor/(103360:103360): Servidor listo para recibir al cliente
+[INFO] 23:40:52:626 Servidor/(103415:103415): Servidor listo para recibir al cliente
+[INFO] 23:44:44:486 Servidor/(103455:103455): Servidor listo para recibir al cliente
+[INFO] 23:44:52:828 Servidor/(103466:103466): Servidor listo para recibir al cliente
+[INFO] 23:45:13:024 Servidor/(103498:103498): Servidor listo para recibir al cliente
+[INFO] 23:45:31:423 Servidor/(103526:103526): Servidor listo para recibir al cliente
+[INFO] 23:46:49:944 Servidor/(103592:103592): Servidor listo para recibir al cliente
+[INFO] 23:54:00:597 Servidor/(103666:103666): Servidor listo para recibir al cliente
+[INFO] 23:58:15:931 Servidor/(2018:2018): Servidor listo para recibir al cliente
+[INFO] 00:14:36:577 Servidor/(2251:2251): Servidor listo para recibir al cliente
+[INFO] 00:15:46:642 Servidor/(2271:2271): Servidor listo para recibir al cliente
+[INFO] 00:17:54:413 Servidor/(2460:2460): Servidor listo para recibir al cliente
+[INFO] 00:21:00:856 Servidor/(2532:2532): Servidor listo para recibir al cliente
+[INFO] 00:22:14:351 Servidor/(2532:2532): Se conecto un cliente!
+[INFO] 00:22:14:351 Servidor/(2532:2532): Me llego el mensaje valor
+[ERROR] 00:22:14:458 Servidor/(2532:2532): el cliente se desconecto. Terminando servidor
+[INFO] 00:36:31:178 Servidor/(3355:3355): Servidor listo para recibir al cliente
+[INFO] 00:37:52:830 Servidor/(3355:3355): Se conecto un cliente!
+[INFO] 00:37:52:831 Servidor/(3355:3355): Me llego el mensaje valor
+[ERROR] 00:37:52:942 Servidor/(3355:3355): el cliente se desconecto. Terminando servidor
+[INFO] 00:49:35:319 Servidor/(3536:3536): Servidor listo para recibir al cliente
+[INFO] 00:50:11:845 Servidor/(3536:3536): Se conecto un cliente!
+[INFO] 00:50:11:846 Servidor/(3536:3536): Me llego el mensaje valor
+[INFO] 00:50:37:176 Servidor/(3536:3536): Me llegaron los siguientes valores:
+
+[INFO] 00:50:37:177 Servidor/(3536:3536): mensaje al server?
+[INFO] 00:50:37:177 Servidor/(3536:3536): o  fallara?
+[INFO] 00:50:37:177 Servidor/(3536:3536): no lo se
+[ERROR] 00:50:37:177 Servidor/(3536:3536): el cliente se desconecto. Terminando servidor
+[INFO] 00:53:13:671 Servidor/(3592:3592): Servidor listo para recibir al cliente
+[INFO] 00:53:46:014 Servidor/(3592:3592): Se conecto un cliente!
+[INFO] 00:53:46:015 Servidor/(3592:3592): Me llego el mensaje valor
+[INFO] 00:53:53:313 Servidor/(3592:3592): Me llegaron los siguientes valores:
+
+[INFO] 00:53:53:314 Servidor/(3592:3592): a ver 
+[ERROR] 00:53:53:314 Servidor/(3592:3592): el cliente se desconecto. Terminando servidor
